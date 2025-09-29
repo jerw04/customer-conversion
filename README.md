@@ -62,4 +62,4 @@ pip install -r requirements.txt
 ```bash
 streamlit run app/streamlit_app.py
 ```
-4. The app will open in your browser at ~http://localhost:8501~
+4. The app will open in your browser at : http://localhost:8501
