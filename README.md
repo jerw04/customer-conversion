@@ -53,3 +53,13 @@ customer-conversion/
 ```bash
 git clone <your-repo-url>
 cd customer-conversion
+```
+2. Set up Python environment (e.g. using venv or conda) and install dependencies:
+```bash
+pip install -r requirements.txt
+```
+3. Run the Streamlit app:
+```bash
+streamlit run app/streamlit_app.py
+```
+4. The app will open in your browser at ~http://localhost:8501~
